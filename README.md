@@ -13,26 +13,28 @@ This repository contains extracted prompt texts. It does **not** include any par
 
 ## 📂 Available Languages
 
-| Language             | File name                  |
-|----------------------|----------------------------|
-| English              | [`prompts.en.md`](./prompts.en.md) |
-| Français             | [`prompts.fr.md`](./prompts.fr.md) |
-| Deutsch              | [`prompts.de.md`](./prompts.de.md) |
-| Italiano             | [`prompts.it.md`](./prompts.it.md) |
-| 日本語                | [`prompts.ja.md`](./prompts.ja.md) |
-| Español              | [`prompts.es.md`](./prompts.es.md) |
-| 한국어                | [`prompts.ko.md`](./prompts.ko.md) |
-| 简体中文              | [`prompts.zh-CN.md`](./prompts.zh-CN.md) |
-| 繁體中文              | [`prompts.zh-TW.md`](./prompts.zh-TW.md) |
-| Русский              | [`prompts.ru.md`](./prompts.ru.md) |
-| Bahasa Indonesia     | [`prompts.id.md`](./prompts.id.md) |
-| Português            | [`prompts.pt.md`](./prompts.pt.md) |
-| हिन्दी (Hindi)       | [`prompts.hi.md`](./prompts.hi.md) |
-| தமிழ் (Tamil)        | [`prompts.ta.md`](./prompts.ta.md) |
-| العربية (Arabic)      | [`prompts.ar.md`](./prompts.ar.md) |
-| Türkçe               | [`prompts.tr.md`](./prompts.tr.md) |
+The [English version](./prompts.en.md) is the original source extracted from the CLI tool.  
+All other language files are LLM-generated translations to help developers understand the prompts more easily in their native languages.  
+These translations may be refined over time.
 
-Translations are generated using LLMs and may be refined over time.
+| Language                        | File name                          |
+|----------------------------------|-------------------------------------|
+| Arabic (العربية)                | [`prompts.ar.md`](./prompts.ar.md) |
+| German (Deutsch)                | [`prompts.de.md`](./prompts.de.md) |
+| English (English)               | [`prompts.en.md`](./prompts.en.md) |
+| Spanish (Español)              | [`prompts.es.md`](./prompts.es.md) |
+| French (Français)              | [`prompts.fr.md`](./prompts.fr.md) |
+| Hindi (हिन्दी)                  | [`prompts.hi.md`](./prompts.hi.md) |
+| Indonesian (Bahasa Indonesia)  | [`prompts.id.md`](./prompts.id.md) |
+| Italian (Italiano)             | [`prompts.it.md`](./prompts.it.md) |
+| Japanese (日本語)               | [`prompts.ja.md`](./prompts.ja.md) |
+| Korean (한국어)                 | [`prompts.ko.md`](./prompts.ko.md) |
+| Portuguese (Português)         | [`prompts.pt.md`](./prompts.pt.md) |
+| Russian (Русский)              | [`prompts.ru.md`](./prompts.ru.md) |
+| Tamil (தமிழ்)                  | [`prompts.ta.md`](./prompts.ta.md) |
+| Turkish (Türkçe)               | [`prompts.tr.md`](./prompts.tr.md) |
+| Chinese (Simplified, 简体中文) | [`prompts.zh-CN.md`](./prompts.zh-CN.md) |
+| Chinese (Traditional, 繁體中文)| [`prompts.zh-TW.md`](./prompts.zh-TW.md) |
 
 ---
 
